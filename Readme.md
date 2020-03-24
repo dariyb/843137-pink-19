@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дарья Гомзякова](https://up.htmlacademy.ru/adaptive/19/user/843137).
-* Наставник: `Неизвестно`.
+* Наставник: `Keks`.
 
 ---
 
